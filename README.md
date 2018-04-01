@@ -23,14 +23,15 @@ All features are listed below.
 
 ### How can I find what I am looking for?
 
-Is it that you are looking for? We integrated a search which can find any room you want to navigate to. 
+We integrated a search which can find any room you want to navigate to. 
 You are able to find the room of your next lecture, the office of any professor and also points of interests e.g. 
 changing rooms, printers, snacks & coffee mashine.
 
 ### How to get there?
 
-With a click on the navigation buttom, it will take your actual position and navigates you to the place of choice no matter if it's indoor or outdoor. Your position will be centered on the map and the path will be displayed on the map on the same floor. You will also receive infromation about the estimated time and distance to travel.
-Depending on the settings of your choice you will eighter take the lift or the stairs. A marker will show you where to get off and the second part of the path will show you the way of your desired room.
+With a click on the navigation buttom, it will take your actual position and navigates you to the place of choice, no matter if it's indoor or outdoor. Your position will be centered and the path will be displayed on the map on the same floor. You will also receive infromation about the estimated time and distance to travel.
+Depending on the settings of your choice, you will eighter take the lift or the stairs. 
+A marker will show you where to get off and the second part of the path will show you the way of your desired room.
 
 
 ### Really, there is still more?
