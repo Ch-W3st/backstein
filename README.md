@@ -19,7 +19,7 @@ The map is interactive and alows you to zoom in / zoom out, change the perspecti
 ## Show me what you got!
 
 As a user you will get everthing you need to feel welcome and find everything you need.
-You will find all features listed below.
+All features are listed below.
 
 ### How can I find what I am looking for?
 
@@ -38,12 +38,3 @@ Depending on the settings of your choice you will eighter take the lift or the s
 We want to have all features combined in one app, so we decided to add one more feature to the app. You are now up to date with the menue in the canteen.
 
 
-
-
-
-
-
-
-
-Ob Sie nun als Student oder Gast an der HTW Berlin Wilhelminenhof sind, unsere App bietet Ihnen die Möglichkeit, sich von ihrer aktuellen Position zu Ihrem gewünschten Ziel navigieren zu lassen – und das über alle Etagen hinweg.
-Für reguläre Besucher bietet die App auch personalisierte Funktionen für den Alltag an der HTW, wie z.B. das schnelle Abfragen der momentanen Belegung von Räumen, Sprechzeiten eines Dozenten oder der Weg zum nächsten Kaffee.
