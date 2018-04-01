@@ -1,3 +1,1 @@
-# backstein
-![test](https://github.com/Ch-W3st/backstein/blob/master/logo.png?raw=true "Optional Title")
-
+<img align="right" src="https://github.com/Ch-W3st/backstein/blob/master/logo.png">
