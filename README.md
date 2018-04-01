@@ -11,7 +11,7 @@ Are you new as a student at the campus or just a visitor? This app will guide yo
 With the help of **Indoor Atlas** we mapped all levels, so indoor positioning is accurate **up to 2 meters**.
 A magnetic field and wifi-signals from every router on the levels deserves us with information which makes indoor positioning as accurate as it can be. Google maps is not very helpful when it's going down to indoor navigation.
 
-## What is the map like?
+## What's the map like?
 
 **Mapbox** serves. Within **Mapbox** we created our unique maps and adjust the styles, to the persons needs.
 The map is interactive and alows you to zoom in / zoom out, change the perspective (angle), rooms are clickable and you will receive more information e.g. is this room occupied or free to use, the room type and the building. You are also able to add this room to your favorites, to make a quick search.
