@@ -25,7 +25,7 @@ All features are listed below.
 ### Search POIs
 
 We integrated a search which can find any room you want to navigate to. You are able to find the room of your next lecture, the office of any professor and also points of interests e.g. 
-changing rooms, printers, snacks & coffee mashine.
+changing rooms, printers, snacks & coffee machine.
 
 
 ### Positioning and Routing
