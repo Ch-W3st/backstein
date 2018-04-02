@@ -1,4 +1,4 @@
-# Campus indoor/ outdoor navigation <img align="right" src="https://github.com/Ch-W3st/backstein/blob/master/logo.png">
+# Campus indoor/ outdoor navigation ![test](logo.png)
 
 Based on react native, we built up the first indoor/ outdoor navigation app, developed for the HTW Wilhelminenhof campus in Berlin.
 
