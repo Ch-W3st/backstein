@@ -1,4 +1,7 @@
-# Campus indoor/ outdoor navigation ![test](logo.png)
+# Campus indoor/ outdoor navigation 
+
+<img src="appScreen.jpg" width="300">
+
 
 Based on react native, we built up the first indoor/ outdoor navigation app, developed for the HTW Wilhelminenhof campus in Berlin.
 
