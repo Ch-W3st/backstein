@@ -41,6 +41,11 @@ We want to have all features combined in one app, so we decided to add one more 
 
 *The integration of the students schedule is not yet implemented.*
 
+## Build,Deployment and system structure
+
+View files in docs/
+
+
 ## Framework
 
 [React Native](https://facebook.github.io/react-native/)
